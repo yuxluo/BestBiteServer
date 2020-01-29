@@ -2,6 +2,7 @@ from html.parser import HTMLParser
 import os
 import copy 
 import configparser
+import time
 
 InComingMenuItem = False 
 ExistingMenu = set()
@@ -78,11 +79,15 @@ def main():
   RecoverData()
   UpdatedMenu = copy.deepcopy(ExistingMenu)
 
-  parse_menu()
-  if len(UpdatedMenu.difference(ExistingMenu)) != 0:
-    UpdateMenu()
-  else:
-    print("@@@ No New Update")
+  while True:
+    parse_menu()
+    if len(UpdatedMenu.difference(ExistingMenu)) != 0:
+      UpdateMenu()
+    else:
+      print("@@@ No New Update")
+    time.sleep(3600)
+  
+
   
 
 def UpdateMenu():
