@@ -1,12 +1,14 @@
 Alabama BBQ Sauce
 All Beef Hot Dog
 Ancho Andouille Stuffed Pork Loin
+Apple Cinnamon Muffin
 Apple Cinnamon Muffins
 Asparagus Spears
 Assorted Mini Danishes with Nuts
 Assorted Mini Scones
 Avocado Wedge
 BBQ Baked Beans
+BBQ Chicken Pizza
 BBQ Sauce
 BBQ Tofu with Roasted Vegetables
 BLT Pizza
@@ -67,6 +69,7 @@ Build your own Pizza
 Bulgur Stuffed Peppers
 Butterbeans with Leeks
 Butternut Squash Soup
+Butternut Squash Soup w/ Almond Milk
 Butternut Squash Soup w/ Coconut Milk
 Cacciatore Sauce
 California Blend
@@ -104,12 +107,14 @@ Chicken Sausage Patties
 Chicken Tenders
 Chicken Tinga
 Chicken Tortellini Soup
+Chicken Tortilla Soup
 Chicken and Caramelized Onion Pizza
 Chickpea Falafel
 Chili Honey Glazed Salmon
 Chili Marinated Chicken Sandwich w/Colby
 Chipotle Mayonnaise Dressing
 Chocolate Chip Pancakes
+Chocolate Chocolate Chip Muffin
 Chocolate Chocolate Chip Muffins
 Chocolate Chunk Cookies
 Chocolate Coconut Cream Pie w/ Almond
@@ -126,11 +131,13 @@ Cinnamon Rolls
 Cinnamon Sugar Donuts
 Cinnamon Sugar Topping
 Cinnamon Swirl French Toast
+Classic Chocolate Cake
 Colcannon Soup
 Collard Greens
 Compostable Spoons
 Coney Chili
 Coney Island Chili
+Corn Chowder
 Corn Pudding
 Corn Salsa
 Corn with Spinach and Tomato
@@ -198,6 +205,7 @@ Honey Butter
 Honey Mustard
 Honeydew Infused Water w/ Ginger
 Hot & Sour Soup
+Hot & Spicy Edamame
 Hot Chocolate
 Hot Chocolate Bar
 Hot Dog Buns
@@ -213,6 +221,7 @@ Italian Sausage Pizza
 Italian Style Chicken Soup
 Jasmine Rice
 Jerk Tempeh
+Kettle Chips
 Kettle Potato Chips
 Key Lime Squares
 Korean Flank Steak
@@ -229,6 +238,7 @@ Lemon Zest Cookies
 Long Grain Rice
 MSC Fish Sandwich on White Bun
 MSC Grilled Cod
+MSC Pub Style Fish
 Mac & Cheese
 Mac Yo Cheese
 Macaroni & Cheese
@@ -255,6 +265,7 @@ Mojito Tofu
 Mojo Grilled Chicken
 Mongolian Beef with Fried Noodles
 Mongolian Tofu with Fried Noodles
+Moroccan Chorba Soup
 Mushroom Bisque
 Mushroom Marinara Sauce
 Mushroom Swiss Burger on White Bun
@@ -269,6 +280,7 @@ Omelettes to Order
 Orange Sections
 Orecchiette Pasta
 Organic Steel-Cut Oatmeal
+Oven Roasted Vegetables
 PARSTOCK KOSHER DELI
 Pacific Rim Salad
 Pancakes
@@ -338,6 +350,7 @@ Sauteed Vegetables
 Sauteed Zucchini Squash and Onion
 Savory Baked Tofu
 Savory Rice
+Scallops
 Scrambled Eggs
 Scrambled Tofu
 Seasoned Curly Fries
@@ -371,6 +384,7 @@ Sriracha Hot Sauce
 Steak Fries
 Sticky Rice
 Stir Fried Chicken
+Stir Fry Hunan Sauce
 Strawberry Crepes
 Stuffed French Toast
 Sugar Cookies
@@ -380,8 +394,10 @@ Sweet Potato Quinoa Burger on Wheat Bun
 Sweet Potato Soup
 Sweet Potato Tots
 Sweet Potato Wedges
+Sweet and  Sour Tofu
 Szechuan Chicken
 Szechuan Tofu
+Tartar Sauce
 Texas BBQ Jackfruit
 Thai Grilled Chicken w/ Pineapple
 Three Bean Chili
@@ -406,13 +422,16 @@ Vegan Chili Cornbread Pie
 Vegan Crispy Tenders
 Vegan Eggplant Parmesan
 Vegan Grilled Cheese
+Vegan Oatmeal Raisin Cookies
 Vegan Pumpkin Coconut Whoopie Pie
 Vegan Soymilk Smoothie
 Vegan Tomato Soup
 Vegetable & Paneer Korma with Nuts
 Vegetable Beef Soup
+Vegetable Fried Rice
 Vegetable Gumbo
 Vegetable Pho
+Vegetable Stir Fry Blend
 Vegetarian English Muffin Egg Sandwich
 Vietnamese Chicken Wings w/ Peanuts
 Vinnie's Pizza
@@ -426,6 +445,7 @@ Whole Wheat Hamburger Buns
 Wilted Arugula
 Xhosa Imifino Patty
 Yellow Corn Arepas
+Yellow Rice
 Yu-Xiang Sauce
 Yucatan Turkey Burger on Wheat Bun
 Zucchini Parmesan
