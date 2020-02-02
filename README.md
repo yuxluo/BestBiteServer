@@ -1,4 +1,4 @@
-![Company Logo](./logo)
+![Company Logo](./logo.png)
 
 # BestBite Server
 
