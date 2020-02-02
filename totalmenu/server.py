@@ -77,7 +77,6 @@ def main():
   global UpdatedMenu
   global CurrentVersion
 
-  print("Runing Server")
   StringsLib.read('strings.properties')
   RecoverData()
   UpdatedMenu = copy.deepcopy(ExistingMenu)
