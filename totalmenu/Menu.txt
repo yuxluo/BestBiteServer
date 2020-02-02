@@ -1,6 +1,7 @@
 Alabama BBQ Sauce
 All Beef Hot Dog
 Ancho Andouille Stuffed Pork Loin
+Andouille Sausage on White Bun
 Apple Cinnamon Muffin
 Apple Cinnamon Muffins
 Apple Cream Sauce
@@ -10,11 +11,13 @@ Assorted Desserts
 Assorted Mini Danishes with Nuts
 Assorted Mini Scones
 Assorted Muffins
+Assorted Rolls
 Assorted Scones
 Avocado Wedge
 BBQ Baked Beans
 BBQ Chicken Pizza
 BBQ Sauce
+BBQ Shredded Chicken
 BBQ Tofu with Roasted Vegetables
 BLT Pizza
 Bacon
@@ -25,8 +28,10 @@ Baked Butternut Squash
 Baked Chicken
 Baked Chorizo Hash Brown
 Baked Halal Chicken
+Baked Plantains
 Baked Whitefish
 Baked Ziti Pizza w/ Italian Seasoning
+Balsamic Marinated Seitan
 Banana
 Banana Crumble with Coconut
 Banana Pepper Rings
@@ -38,10 +43,12 @@ Beef & Mushroom Blended Burger w/ Cheese
 Beef Breakfast Poutine
 Beef Chili
 Beef Hot Dog
+Beef Hot Dog on Bun
 Beef Noodle Soup
 Beef Stir Fry Szechuan
 Beef Strips
 Beef Stroganoff
+Beef Taco Pizza
 Beef Vegetable Soup
 Beet Chickpea Burger on Wheat Bun
 Beet Chickpea Burger on White Bun
@@ -51,6 +58,7 @@ Better Made Potato Chips
 Birthday Cake Bars
 Biscuits
 Black Bean Soup
+Black Bean Vegetarian Patty
 Black Beans
 Black Beans and Brown Rice
 Black and White Sesame Seeds
@@ -59,6 +67,8 @@ Blue Cheese Crumbles
 Blueberry Buttermilk Pancakes
 Blueberry Muffins
 Blueberry Oatmeal
+Blueberry Pie
+Blueberry Steel Cut Oatmeal
 Bok Choy
 Bowtie Pasta
 Brazil Beef Feijoada
@@ -78,7 +88,9 @@ Brown Sugar
 Brown Sugar Oatmeal
 Brown Sugar Steel Cut Oatmeal
 Brown Sugar and Sesame Glazed Salmon
+Brownie Caramel Bars
 Buffalo Chicken Flatbread Pizza
+Buffalo Chicken Wings
 Buffalo Sauce
 Buffalo Wings
 Build Your Own Burger
@@ -94,15 +106,20 @@ Butternut Squash Soup
 Butternut Squash Soup w/ Almond Milk
 Butternut Squash Soup w/ Coconut Milk
 Cacciatore Sauce
+Cake Style Brownies
 California Blend
 Canadian Cheese Soup
 Cappuccino Chocolate Chip Muffins
 Caramel Cheesecake
 Caramel Pretzel Brownies
 Caramelized Onion and Chicken Pizza
+Carrot Sticks
+Cauliflower & Peas
+Cauliflower Buffalo Wings
 Cauliflower Quinoa Burger on Wheat Bun
 Cavatappi
 Cebollas Encurtidas
+Celery Sticks
 Chachapa
 Chap Chae Sauce
 Char Siu
@@ -119,11 +136,15 @@ Chefs Choice Seasonal Vegetable
 Cherry Chutney
 Cherry Glazed BBQ Pork Ribs
 Cherry Lime Infused Water
+Cherry Pie
 Chicken & Rice Soup
 Chicken Bacon Chipotle Sandwich
 Chicken Banh Mi
+Chicken Broccoli Bake
+Chicken Carnitas
 Chicken Gravy
 Chicken Marsala
+Chicken Noodle Soup
 Chicken Piccata
 Chicken Popper Bowl
 Chicken Pot Pie
@@ -148,8 +169,10 @@ Chocolate Chocolate Chip Muffins
 Chocolate Chunk Cookies
 Chocolate Coconut Cream Pie w/ Almond
 Chocolate Coconut Cream Pie with Almond
+Chocolate Eclairs
 Chocolate Glazed Donuts
 Chocolate Golden Torte
+Chocolate Ice Cream
 Chocolate Tres Leches Cake
 Chole
 Chopped Green Onions
@@ -158,7 +181,9 @@ Chopped Peanut Topping
 Cilantro
 Cilantro Chutney
 Cilantro Lime Brown Rice
+Cilantro Lime Water w/ Jalapeno
 Cinnamon Rolls
+Cinnamon Sugar Breadsticks
 Cinnamon Sugar Donuts
 Cinnamon Sugar Topping
 Cinnamon Swirl French Toast
@@ -173,6 +198,7 @@ Coney Island Chili
 Corn Chowder
 Corn Pudding
 Corn Salsa
+Corn and Black Bean Salsa
 Corn with Spinach and Tomato
 Cranberry White Chocolate Bread Pudding
 Cream of Mushroom Soup
@@ -181,23 +207,29 @@ Creamy Butternut Squash Lasagna
 Creamy Mango Smoothie
 Creamy Mixed Berry Smoothie (GF) (VGT)
 Creamy Peanut Butter
+Creamy Pesto Ziti
 Creamy Strawberry Banana Smoothie
 Criss Cross Fries
 Curry Roasted Carrots
+Dearborn Bratwurst on White Bun
 Decorated Chocolate Cake
 Deep Fried French Toast Sticks
 Deep Fried Tritaters
 Deluxe Meat Pizza
+Detroit Coney Island Hot Dog
 Dijon Mustard
 Dill Pickle Soup
 Dill Pickle Spears
 Double Chocolate Cake
 Dried Cherries
 Dried Cranberries
+East African Coconut Vegetable Stir Fry
+Edamame Stir Fry w/ Cabbage and Pea Pods
 Encocado de Camaron with Coconut
 Ethiopian Spiced Lentils
 Fagioli Pasta
 Feta Cheese Bread
+Fettuccine Alfredo
 Focaccia
 Four Cheese Egg White Frittata
 Four Cheese Gemelli
@@ -209,11 +241,15 @@ Fresh Deli Sandwiches & Wraps
 Fresh Fruit Cup
 Fresh Pico De Gallo
 Fresh Whipped Potatoes
+Fried Potato Skins
 Fudge Icing
+Galactic Garlic Parmesan Fries
 Garbanzo Bean Sliders w/ Walnuts
 Garlic Bread
+Garlic Butter
 Garlic Cream Sauce
 Garlic Naan Bread
+Garlic Parmesan Chicken Wings
 Garlic Parsley Pinto Beans
 Garlicky Mashed Potatoes
 Gemelli Pasta
@@ -221,14 +257,19 @@ German Chocolate Cake with Nuts
 Ginataang Kalabasa at Kalabasa w/Coconut
 Goan Prawn Coconut Curry
 Grape Tomatoes
+Grecian Pita Fold
 Grecian Salad
+Greek Salad
+Greek Tzatziki Sauce
 Green Beans
 Green Coconut Curry Sauce
 Grill Made to Order
 Grilled Asparagus
 Grilled Cheese
 Grilled Chicken Breast Sandwich on White
+Grilled Chicken Chimichurri
 Grilled Eggplant with Basil
+Grilled Ham
 Grilled Ham and Cheese
 Grilled Herbed Zucchini
 Grilled Salmon
@@ -239,9 +280,11 @@ Guacamole
 Gyro Chicken
 Habanero Rubbed Pork Shoulder
 Halal Beef Chili
+Halal Beef Kofta
 Halal Buffalo Chicken Soup
 Halal Chicago Style Hot Dog
 Halal Chicken Piccata
+Halal Greek Nachos
 Halal Grilled Chicken Thigh
 Halal Homemade Meatballs
 Halal Lasagna Rollups with Meat Sauce
@@ -249,9 +292,11 @@ Halal Pastrami Sandwich
 Halal Sweet Moroccan Beef
 Hamburger Buns
 Hamburger Slider Buns
+Hamburger on Pretzel Bun
 Hamburger on White Bun
 Hash Browns
 Hearty Beef Soup
+Hearty Vegetable Chowder
 Herbed Breakfast Potatoes
 Hoisin Sauce
 Home Fries
@@ -271,21 +316,29 @@ Iced Chocolate Long John
 Indian Lemon Rice w/ Coconut and Peanuts
 Indian Tandoori Style Chicken
 Italian Beans & Rice
+Italian Flatbread Pizza
 Italian Grilled Shrimp
 Italian Sandwich Loaf
 Italian Sausage Macaroni & Cheese
 Italian Sausage Pizza
 Italian Style Chicken Soup
+Japanese Pork Katsu Curry
+Japanese Tofu Katsu Curry
 Jasmine Rice
 Jerk Tempeh
+Jerk Tofu
 Kettle Chips
 Kettle Potato Chips
+Key Largo Blend
+Key Largo Vegetable Blend
 Key Lime Squares
 Korean Flank Steak
 Korean Seitan BBQ
 Lamb Biryani
 Lamb Korma
+Lamb Shawarma Pita
 Lemon Baked Tofu
+Lemon Bars
 Lemon Parsley Rice
 Lemon Pepper Shrimp Saute
 Lemon Poppyseed Muffin
@@ -317,7 +370,9 @@ Mexican Cilantro Chimichurri Topping
 Mexican Rice
 Mexican Tomato Lime Soup
 Michigan Bean Soup
+Mild Salsa
 Mini Assorted Danishes
+Mini Cheesecake w/Tree Nuts
 Mini Marshmallows
 Mint Garnish
 Miso and Ramen
@@ -327,11 +382,16 @@ Mojo Grilled Chicken
 Mongolian Beef with Fried Noodles
 Mongolian Tofu with Fried Noodles
 Monterey Chicken
+Monterey Sauce
 Moroccan Chorba Soup
+Muffins
+Mushroom Barley Soup
 Mushroom Bisque
 Mushroom Marinara Sauce
 Mushroom Swiss Burger on White Bun
 Mushroom a la King
+Nacho Cheese Sauce
+Nashville Chicken Thigh Sandwich
 No Service at this Time
 Nutella Croissant Bread Pudding w/Pecans
 O'Brien Potatoes
@@ -359,41 +419,56 @@ Pepper Pot Soup
 Peppermint Candy Crushed
 Pepperoni Flatbread Pizza
 Pepperoni Pizza
+Persian Rice Pilaf
 Personal Cheddar Potato & Olive Frittata
+Philly Cheese Steak
 Philly Cheese Steak Pizza
 Pickled Carrots
+Pickled Jalapeno Peppers
 Pickled Radishes
 Pickled Red Onion
+Pilafi (Greek Style Rice)
 Pilau
+Pizza Blanco
 Poblano Smoke Gouda Cream Sauce
 Polish Sausage
+Polish Sausage with Bun
 Pork Sausage Links
 Pork Sausage Patty
 Pork with Yu-Xiang Sauce
+Portabella Broccoli Bake
 Portabella and Poblano Fajitas
+Potato Salad
 Potato Tots
 Potato, Spinach & Tomato Soup
 Potatoes w/ Parsley
 Powdered Sugar Donuts
+Pretzel Bites
 Puerto Rican Pork Roast
+Queso Fresco
 Quiche Florentine
 Quinoa
 Rainbow Rotini with Arugula and Tomatoes
 Raisins
 Rajma
+Ranch Dip
+Ranch Dressing
 Raspberry Almond Bars
 Red Beans & Rice
 Red Braised Cabbage with Bacon
 Red Grape Mostarda Sauce
 Red Grapes
 Red Pepper & Fennel Soup
+Rice Krispy Treats
 Rice Noodles
 Rice Pilaf
 Ricotta Garlic Bread
+Rio Grande Casserole
 Risotto Cakes
 Roast Beef & Cheddar
 Roast Turkey Breast
 Roasted Broccoli
+Roasted Buffalo Cauliflower Bites
 Roasted Butternut Squash
 Roasted Chicken
 Roasted Duck
@@ -405,6 +480,7 @@ Roasted Red Pepper Cream Sauce
 Roasted Vegetable Pizza
 Rotini Garden Provencal Pasta
 Rotini Pasta
+Ruby Lentil Soup
 Ruby Wild Grain Blend
 Sabroso Made to Order
 Salmon with Chimichurri Sauce
@@ -417,6 +493,7 @@ Sauteed Greens
 Sauteed Mushrooms
 Sauteed Onions
 Sauteed Peppers and Onions
+Sauteed Sugar Snap Peas
 Sauteed Swiss Chard
 Sauteed Vegetables
 Sauteed Zucchini Squash and Onion
@@ -432,6 +509,8 @@ Seasoned Roasted Potatoes
 Seasoned Sugar Snap Peas
 Seitan
 Semisweet Chocolate Chips
+Sesame Bowtie Pasta Salad
+Shish Tawook Chicken
 Shredded BBQ Chicken
 Shredded Cheddar Cheese
 Shredded Lettuce
@@ -440,6 +519,7 @@ Shrimp Fried Rice
 Shrimp Parmesan
 Sliced Cheddar Cheese
 Sliced Cucumbers
+Sliced Onions
 Sliced Red Onions
 Sliced Tomatoes
 Sloppy Joe
@@ -457,6 +537,7 @@ Spicy Black Bean Burger w/ White Bun
 Spicy Black Beans
 Spicy Ginger Slaw
 Spicy Kidney Beans
+Spicy Mango Chicken Stir Fry
 Spicy Pasta
 Spicy Soy Garlic Sauce
 Spinach & Red Onion Pizza
@@ -464,6 +545,7 @@ Spinach Feta Pizza
 Spinach Saute
 Spring Rolls
 Sriracha Hot Sauce
+State Ponorogo Chicken w/ Peanuts
 Steak Fries
 Sticky Rice
 Stir Fried Chicken
@@ -471,6 +553,7 @@ Stir Fry Hunan Sauce
 Strawberry Crepes
 Stuffed French Toast
 Sugar Cookies
+Sukiyaki
 Sunset Chicken w/ Peanut & Coconut
 Supreme Flatbread Pizza
 Sweet Pickle Relish
@@ -499,6 +582,7 @@ Toasted Coconut
 Tofu
 Tofu Banh Mi Sandwich
 Tofu Cacciatore
+Tofu Fried Rice
 Tofu and Basil Stir Fry
 Tofu with Yu-Xiang Sauce
 Tomato Bacon Bisque
@@ -512,18 +596,22 @@ Tortilla Chips
 Tossed Salad
 Traditional Chopped Greek Salad
 Turkey Bacon
+Turkey Chili
 Turkey Club Wrap
 Turkey Rice Soup
 Turkey Sausage Links
 Turkey Sloppy Joe
+Turkey Sub by the Inch
 Two Oceans Cuisine Made to Order
 Vanilla Iced Donuts
 Vegan Beet Chickpea Patty
 Vegan Brazilian Black Bean Stew
+Vegan Burrito
 Vegan Chili Cornbread Pie
 Vegan Cinnamon Sugar Cookies
 Vegan Crispy Tenders
 Vegan Eggplant Parmesan
+Vegan Fried Rice
 Vegan Grilled Cheese
 Vegan Oatmeal Raisin Cookies
 Vegan Pancakes
@@ -534,15 +622,19 @@ Vegetable & Paneer Korma with Nuts
 Vegetable Beef Soup
 Vegetable Creole
 Vegetable Fried Rice
+Vegetable Grinder w/ Ciabatta Roll
 Vegetable Gumbo
 Vegetable Pho
 Vegetable Stew with Dumplings
 Vegetable Stir Fry Blend
 Vegetable Tofu Lo Mein
 Vegetarian English Muffin Egg Sandwich
+Veggie Delight Pizza
 Vietnamese Chicken Wings w/ Peanuts
 Vinnie's Pizza
+Watermelon Blueberry Infused Water
 Whipped Butter
+White Bean & Potato Hash
 White Chocolate Macadamia Nut Cookies
 White Chocolate Raspberry Bread
 White Corn Tortillas
@@ -551,11 +643,13 @@ Whole Kernel Corn
 Whole Roasted Chicken
 Whole Wheat Hamburger Buns
 Wilted Arugula
+Wilted Spinach
 Xhosa Imifino Patty
 Yellow Corn Arepas
 Yellow Rice
 Yu-Xiang Sauce
 Yucatan Turkey Burger on Wheat Bun
 Zesty Chicken Nachos
+Zucchini & Summer Squash
 Zucchini Parmesan
 Zucchini and Summer Squash

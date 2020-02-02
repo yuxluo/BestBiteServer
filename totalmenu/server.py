@@ -3,6 +3,8 @@ import os
 import copy 
 import configparser
 import time
+from datetime import datetime
+from datetime import date
 
 InComingMenuItem = False 
 ExistingMenu = set()
@@ -36,7 +38,7 @@ def parse_menu():
 
 def process_dining_hall(dining_hall_name, parser):
   global StringsLib
-  print("@@@ Processing Today's Menu for " + dining_hall_name)
+  print(" Processing Today's Menu for " + dining_hall_name)
   os.system("wget " + StringsLib.get('URL', dining_hall_name) + ">/dev/null 2>&1")
   with open('index.html', 'r') as file:
     data = file.read().replace('\n', '')
@@ -52,7 +54,7 @@ def RecoverData():
   Lines = VersionFile.readlines() 
   CurrentVersion = int(Lines[0])
   VersionFile.close()
-  print("Current Version is: " + str(CurrentVersion))
+
 
   MenuFile = open("Menu.txt", 'r')
   Lines = MenuFile.readlines() 
@@ -65,8 +67,8 @@ def RecoverData():
         ExistingMenu.add(item)
 
   MenuFile.close()
-  print("Current Menu:")
-  print(ExistingMenu)
+
+
 
 
 def main():
@@ -75,16 +77,21 @@ def main():
   global UpdatedMenu
   global CurrentVersion
 
+  print("Runing Server")
   StringsLib.read('strings.properties')
   RecoverData()
   UpdatedMenu = copy.deepcopy(ExistingMenu)
 
   while True:
+    print("\n\n@@@ Current Time Is: " + str(date.today()) + " " + datetime.now().strftime("%H:%M:%S"))
+    print("@@@ Current Version Is: " + str(CurrentVersion))
+    print("@@@ Current Menu Has " + str(len(ExistingMenu)) + " Items")
     parse_menu()
     if len(UpdatedMenu.difference(ExistingMenu)) != 0:
       UpdateMenu()
     else:
       print("@@@ No New Update")
+    print("@@@ Sleeping...")
     time.sleep(3600)
   
 

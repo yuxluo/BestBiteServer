@@ -5,6 +5,8 @@ import configparser
 import time
 import unicodedata
 import xml.etree.ElementTree as ET
+from datetime import datetime
+from datetime import date
 
 class DiningHallClass:
   def __init__(self):
@@ -76,7 +78,7 @@ def process_dining_hall(dining_hall_name, parser):
   global StringsLib
   global Menu_of_Today
 
-  print("@@@ Processing Today's Menu for " + dining_hall_name)
+  print(" Processing Today's Menu for " + dining_hall_name)
   os.system("wget " + StringsLib.get('URL', dining_hall_name) + ">/dev/null 2>&1")
   with open('index.html', 'r') as file:
     data = file.read().replace('\n', '')
@@ -125,6 +127,7 @@ def write_to_file():
         dish_element.text = dish
 
   tree = ET.ElementTree(root)
+  print("@@@ Writing Menu To File")
   tree.write("Menu.xml")
 
 
@@ -137,32 +140,14 @@ def main():
   Menu_of_Today = MenuClass()
 
   while True:
+    print("\n\n@@@ Current Time Is: " + str(date.today()) + " " + datetime.now().strftime("%H:%M:%S"))
     parse_menu()
     write_to_file()
+    print("@@@ Sleeping ...")
     time.sleep(3600)
   
 
   
-
-# def UpdateMenu():
-#   global ExistingMenu
-#   global UpdatedMenu
-#   global CurrentVersion
-#   CurrentVersion += 1
-
-#   print("@@@ " + str(len(UpdatedMenu.difference(ExistingMenu))) + " new updates to menu")
-#   print("@@@ Writing Updates to Version " + str(CurrentVersion) + " of the menu")
-
-#   VersionFile = open("LatestVersion.txt", 'w')
-#   VersionFile.writelines(str(CurrentVersion))
-#   VersionFile.close()
-
-#   MenuFile = open("Menu.txt", 'w')
-#   for dish in sorted(UpdatedMenu):
-#     MenuFile.writelines(dish + "\n")
-#   MenuFile.close()
-
-#   ExistingMenu = copy.deepcopy(UpdatedMenu)
 
 if __name__== "__main__":
   main()
