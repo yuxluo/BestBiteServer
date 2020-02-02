@@ -4,11 +4,17 @@
 
 Yo yo! 歡迎來訪BestBite服務器端的Github頁面！BestBite是一個由BestBite責任有限公司開發的吃貨軟件，請訪問BestBiteClient來獲取更多資訊。
 
+BestBiteServer提供兩個服務，totalmenu和todaymenu。totalmenu收納所有食堂菜單於`Menu.txt`，todaymenu則扒取今日菜單至`Menu.xml`。
+
 ## Getting Started
 
-Clone到Apache/Nginx裏，然後跑server.py和parser.py
+git clone 到Apache/Nginx根目錄
 
-server.py會更新Menu.txt和LatestVersion.txt，parser.txt會生成Today.txt
+cd 進入 totalmenu 並執行 ```python3 server.py```
+
+cd 進入 todaymenu 並執行 ```python3 parser.py```
+
+
 
 ## Prerequisites
 
