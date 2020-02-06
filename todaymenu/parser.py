@@ -128,6 +128,7 @@ def write_to_file():
 
   tree = ET.ElementTree(root)
   print("@@@ Writing Menu To File")
+  os.system("rm Menu.xml")
   tree.write("Menu.xml")
 
 
