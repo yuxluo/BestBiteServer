@@ -128,7 +128,6 @@ def write_to_file():
 
   tree = ET.ElementTree(root)
   print("@@@ Writing Menu To File")
-  os.system("rm Menu.xml")
   tree.write("Menu.xml")
 
 
@@ -138,10 +137,10 @@ def main():
   global Menu_of_Today
 
   StringsLib.read('strings.properties')
-  Menu_of_Today = MenuClass()
 
   while True:
     print("\n\n@@@ Current Time Is: " + str(date.today()) + " " + datetime.now().strftime("%H:%M:%S"))
+    Menu_of_Today = MenuClass()
     parse_menu()
     write_to_file()
     print("@@@ Sleeping ...")
