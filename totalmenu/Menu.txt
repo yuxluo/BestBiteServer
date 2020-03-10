@@ -49,6 +49,7 @@ Au Gratin Potatoes
 Au Jus
 Authentic Minestrone
 Avocado Cauliflower Quinoa Burger
+Avocado Ciabatta Toast
 Avocado Cilantro Lime Topping
 Avocado Cream
 Avocado Honey Brie Grilled Cheese
@@ -68,6 +69,7 @@ BBQ Meatloaf
 BBQ Roast Beef
 BBQ Sauce
 BBQ Seitan
+BBQ Seitan with Roasted Vegetables
 BBQ Shredded Chicken
 BBQ Tempeh
 BBQ Tofu with Roasted Vegetables
@@ -129,6 +131,8 @@ Banana Walnut Muffin Tops
 Banana Walnut Muffins
 Bananas Foster French Toast
 Barbacoa Beef
+Barley Pilaf
+Basil
 Basil Garlic Tofu
 Basil Parmesan Orzo
 Basil Red Pepper Turkey Burger
@@ -189,6 +193,7 @@ Black Bean & Sweet Potato Burrito
 Black Bean Chili
 Black Bean Soup
 Black Bean Tortilla Casserole
+Black Bean Tortilla Torte
 Black Bean Vegetarian Patty
 Black Beans
 Black Beans and Brown Rice
@@ -286,6 +291,7 @@ Build Your Own Smashburger
 Build your own Pizza
 Bulgogi Fries
 Bulgogi Hoagie
+Bulgogi Marinade
 Bulgur Stuffed Peppers
 Burger Slider
 Burrito Bar
@@ -335,6 +341,7 @@ Carrot Osso Bucco
 Carrot Radish Slaw
 Carrot Sticks
 Carrots
+Cashews
 Cauliflower
 Cauliflower & Peas
 Cauliflower Au Gratin
@@ -461,6 +468,7 @@ Chili Lime Kale
 Chili Marinated Chicken Sandwich w/Colby
 Chili Relleno Casserole
 Chili Roasted Potatoes
+Chimichurri BBQ Sauce
 Chimichurri Sauce
 Chipotle Black Bean Burger on Bun
 Chipotle Black Bean Burger on Wheat Bun
@@ -515,6 +523,7 @@ Cilantro Lime Slaw
 Cilantro Lime Water w/ Jalapeno
 Cilantro Lime White Rice
 Cilantro Taco Garnish
+Cinnamon Donut Holes
 Cinnamon Rolls
 Cinnamon Sugar Breadsticks
 Cinnamon Sugar Donuts
@@ -524,6 +533,7 @@ Citrus Infused Water
 Citrus Sauce
 Citrus Spinach and Quinoa Salad
 Classic Chocolate Cake
+Cocoa Krispies
 Cocoa Wheats
 Coconut Jasmine Rice
 Coconut Pound Cake
@@ -700,6 +710,7 @@ French Dip Sandwich
 French Fries
 French Marinated Chicken Breast
 French Onion Soup
+French Toast Sticks
 French Toast Strata w/ Strawberry
 Fresh Cranberry Sauce
 Fresh Deli Sandwiches & Wraps
@@ -797,6 +808,7 @@ Green Peas
 Gremolata Pesto
 Grill Made to Order
 Grilled Asparagus
+Grilled Asparagus Salad
 Grilled Asparagus Salad w/Bacon
 Grilled Asparagus w/Cherries
 Grilled Buffalo Chicken Pita
@@ -877,6 +889,7 @@ Hamburger Buns
 Hamburger Slider Buns
 Hamburger on Pretzel Bun
 Hamburger on White Bun
+Hard Boiled Eggs
 Harold's Northern Michigan Chili
 Hash Browns
 Hawaiian Chicken
@@ -891,6 +904,7 @@ Herb & Yogurt Dip
 Herb Baked Halal Chicken Thighs
 Herb Butter
 Herb Grilled Potatoes
+Herb Oil
 Herbed Breakfast Potatoes
 Herbed Potato Flatbread Pizza
 Herbed Potato Pizza
@@ -918,6 +932,7 @@ Honey Glazed Carrots
 Honey Glazed Donuts
 Honey Hot Sauce
 Honey Lime Chicken w/White Bun
+Honey Lime Dressing
 Honey Mustard
 Honeydew Infused Water w/ Ginger
 Hoppin' John Black Eyed Peas and Rice
@@ -972,6 +987,7 @@ Italian Spice Seasoning
 Italian Style Chicken Soup
 Italian Vegetable Blend
 Italian Wedding Soup
+Jackfruit Florentine
 Jackfruit Florentine Meatballs
 Jackfruit Georgia Reuben Sandwich
 Jalapeno Bottle Caps
@@ -1050,6 +1066,7 @@ Lemon Poppyseed Muffins
 Lemon Wedges
 Lemon Zest Cookies
 Lentil Soup
+Lentil and Rice Bake
 Lentils
 Lime Wedges
 Linguine Bandiera
@@ -1066,6 +1083,7 @@ Louisiana Boil
 Low Country Boil
 Lyonnaise Potatoes
 M & M Rice Krispies Treats
+M&M Torte
 MSC Blackened Cod
 MSC Cod Fish Taco
 MSC Crunchy Cod
@@ -1119,10 +1137,12 @@ Meat Deluxe Pizza
 Meat Sauce
 Meatballs
 Meatballs w/ Marinara
+Meatless Meatballs with Marinara
 Meatless Meatloaf w/ Pecans
 Mediterranean Shrimp Sauce
 Medium Grain Rice
 Meena's Spicy Himalayan Chili
+Memphis Chicken
 Mexican Cheese Blend
 Mexican Chimichurri Tofu Power Bowl
 Mexican Cilantro Chimichurri Topping
@@ -1143,6 +1163,7 @@ Mini Marshmallows
 Minnesota Wild Rice Soup
 Mint Garnish
 Miso Glazed Acorn Squash
+Miso Shoyu Ramen Broth
 Miso and Ramen
 Mixed Berry Compote
 Mixed Berry Sauce
@@ -1226,6 +1247,7 @@ Organic Steel-Cut Oatmeal
 Orzo with Spinach
 Oven Browned Potatoes
 Oven Roasted Asparagus
+Oven Roasted Garlic Potatoes
 Oven Roasted Vegetables
 Oxford 7 inch Pizza
 Oysters Rockefellar
@@ -1316,6 +1338,7 @@ Pizza Burger on White Bun
 Pizza Cheese Blend
 Pizza Flatbread
 Pizza Grilled Cheese
+Plain Donut Holes
 Plain Greek Yogurt
 Poblano Cheese Sauce
 Poblano Potato Salad
@@ -1503,6 +1526,7 @@ Sabroso Made to Order
 Salmon with Chimichurri Sauce
 Salsa Verde
 Sambal Vinaigrette
+Samosas
 Sander's Hot Fudge Sauce
 Sandwich Tuna Salad Croissant
 Sandwiches Made to Order
@@ -1560,12 +1584,14 @@ Seitan Quesadilla
 Semisweet Chocolate Chips
 Sesame Bowtie Pasta Salad
 Sesame Chicken
+Sesame Chicken Edamame Bowl
 Sesame Green Beans
 Sesame Sugar Snap Peas
 Sesame Tofu
 Shaved Brussel Sprouts
 Shells and Three Cheeses
 Shenanigans with Shawarma
+Shiitake Mushroom
 Shish Tawook Chicken
 Shoestring French Fries
 Shredded BBQ Chicken
@@ -1600,6 +1626,7 @@ Shrimp Taco
 Shrimp Teriyaki Stir Fry
 Shrimp Vindaloo
 Shrimp and Chicken Jambalaya
+Singapore Noodles w/ Shrimp & Scallops
 Sliced American Cheese
 Sliced Cheddar Cheese
 Sliced Cucumbers
@@ -1637,6 +1664,7 @@ Smoked Southwestern Chicken
 Smoked St. Louis Ribs
 Smoked Whole Leg of Lamb
 Snyder Pretzel Sticks 3.5 OZ
+Soba Noodles
 Soft Polenta w/ Cheese
 Soft Polenta with Quattro Formaggi
 Sorghum with Roasted Veggies
@@ -1745,6 +1773,7 @@ Stuffed Cabbage with Lentils
 Stuffed French Toast
 Stuffed Quinoa Peppers
 Stuffed Szechuan Eggplant
+Sub Bun
 Succotash
 Sugar Cookies
 Sugar Snap Peas
@@ -1776,6 +1805,7 @@ Sweet Potato Wedges
 Sweet Teriyaki St. Louis Ribs
 Sweet and  Sour Tofu
 Sweet and Sour Cabbage with Apple
+Sweet and Sour Chicken
 Sweet and Sour Chicken Stir Fry
 Sweet and Sour Sauce
 Swiss Steak Tempeh
@@ -1885,6 +1915,7 @@ Trottole Pasta
 Trottole with Alfredo Sauce
 Tuna Salad
 Turkey
+Turkey & Swiss Sandwich w/ Wheat
 Turkey Bacon
 Turkey Burger
 Turkey Burger on White Bun
@@ -1894,6 +1925,7 @@ Turkey Chipotle on Focaccia
 Turkey Club Wrap
 Turkey Divan
 Turkey Gravy
+Turkey Meatballs Florentine
 Turkey Meatloaf
 Turkey Noodle Soup
 Turkey Rice Soup
@@ -1990,6 +2022,7 @@ Veggie Crispy Patty
 Veggie Crispy Patty Sandwich
 Veggie Crispy Patty on Wheat Bun
 Veggie Crispy Patty on White Bun
+Veggie Delight Flatbread Pizza
 Veggie Delight Pizza
 Veggie El Cubano Sandwich
 Veggie el Cubano

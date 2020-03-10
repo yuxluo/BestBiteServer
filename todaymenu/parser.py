@@ -33,7 +33,7 @@ def parse_menu():
       global InComingMenuItem
       global InComingHour
 
-      if tag == "div" and attrs[0] == ('class', 'item-name'):
+      if tag == "div" and attrs and attrs[0] == ('class', 'item-name'):
         InComingMenuItem = True
       elif tag == "span" and len(attrs) and attrs[0] == ('class', 'calhours-times'):
         InComingHour = True

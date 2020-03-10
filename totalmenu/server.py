@@ -18,7 +18,7 @@ def parse_menu():
 
     def handle_starttag(self, tag, attrs):
       global InComingMenuItem
-      if tag == "div" and attrs[0] == ('class', 'item-name'):
+      if tag == "div" and attrs and attrs[0] == ('class', 'item-name'):
         InComingMenuItem = True
 
     def handle_data(self, data):
